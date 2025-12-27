@@ -1,0 +1,28 @@
+A port of Chemical Plant Act 2 from Sonic Generations
+- FloorA = Normal (Africa)
+
+
+
+
+- FloorB = Fall (China)
+Floor Size 0 = C
+Floor Size 1 = D
+Floor Size 2 = A
+
+
+Rotating Blocks = NYFloor
+- A = BlockSize 1 (Small)
+- B = BlockSize 2 (Medium)
+- C = BLockSize 3 (Large)
+
+
+Last things:
+Particles - Sorted
+last 2d objects - Sorted
+last terrain - Sorted
+tube material - Sorted
+Collision - Sorted
+music/sound - Sorted
+Extra Collision (OneWayFloors) - Sorted
+Camera at top of hill - Sorted
+Flame Particles - Sorted
