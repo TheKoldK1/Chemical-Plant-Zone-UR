@@ -1,6 +1,8 @@
 A port of Chemical Plant Act 2 from Sonic Generations
 - FloorA = Normal (Africa)
-
+Floor Size 0 = A
+Floor Size 1 = B
+Floor Size 2 = C
 
 
 
@@ -15,14 +17,30 @@ Rotating Blocks = NYFloor
 - B = BlockSize 2 (Medium)
 - C = BLockSize 3 (Large)
 
+Blocks (Floor Type 2 in Gens)
+Model 2bx (Floor Size 0): Egg_FloorA
+Model 4bx (Floor Size 1): Egg_FloorB
+Model 6bx (Floor Size 2): EU_Floor
+Model 8bx (Floor Size 3): MykonosFloor
 
-Last things:
-Particles - Sorted
-last 2d objects - Sorted
-last terrain - Sorted
-tube material - Sorted
-Collision - Sorted
-music/sound - Sorted
-Extra Collision (OneWayFloors) - Sorted
-Camera at top of hill - Sorted
-Flame Particles - Sorted
+
+First CpzPipe (changeroad01) = DragonRoadEntrance Object
+Second CpzPipe (changeroad04) = ObjectPhysics
+
+
+Mega Mac objects = MovingThorn & RollingBall
+
+
+
+THINGS TO DO:
+REINSTALL GENS
+PROPER AUTODRAW - DONE (UPDATE)
+COPY MISSING MATERIALS BACK OVER TO STAGE ARCHIVE - DONE
+CHANGELAYERCOLLISION WITH FALLING FLOORS IN BOTTOM 2D - DONE (UPDATE)
+SORT OUT TEXTURE FILES - DONE
+(maybe) Change floor blocks that are currently objphy to another floor slot - DONE (UPDATE)
+Sort out game lag - DONE (UPDATE)
+
+
+
+
