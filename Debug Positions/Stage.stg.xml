@@ -91,6 +91,36 @@
       <DeadHeight>-555</DeadHeight>
       <IsSideView>true</IsSideView>
     </BoxSonic>
+    <twoDSonic1>
+      <Position>
+        <x>15.02</x>
+        <y>15</y>
+        <z>96.3</z>
+      </Position>
+      <Yaw>0</Yaw>
+      <Start>
+        <Mode>None</Mode>
+        <Speed>60.0</Speed>
+        <Time>4.0</Time>
+      </Start>
+      <DeadHeight>-555</DeadHeight>
+      <IsSideView>true</IsSideView>
+    </twoDSonic1>
+    <twoDSonic2>
+      <Position>
+        <x>15.02</x>
+        <y>3.95</y>
+        <z>180.70</z>
+      </Position>
+      <Yaw>0</Yaw>
+      <Start>
+        <Mode>None</Mode>
+        <Speed>60.0</Speed>
+        <Time>4.0</Time>
+      </Start>
+      <DeadHeight>-555</DeadHeight>
+      <IsSideView>true</IsSideView>
+    </twoDSonic2>
     <ShortcutSonic>
       <Position>
         <x>-416.227</x>
@@ -105,21 +135,6 @@
       </Start>
       <DeadHeight>-555</DeadHeight>
     </ShortcutSonic>
-    <twoDSonic>
-      <Position>
-        <x>15.02</x>
-        <y>3.95</y>
-        <z>180.70</z>
-      </Position>
-      <Yaw>0</Yaw>
-      <Start>
-        <Mode>None</Mode>
-        <Speed>60.0</Speed>
-        <Time>4.0</Time>
-      </Start>
-      <DeadHeight>-555</DeadHeight>
-      <IsSideView>true</IsSideView>
-    </twoDSonic>
     <rotateblockSonic>
       <Position>
         <x>15.02</x>
@@ -611,6 +626,13 @@
       <Index>18</Index>
       <Name>DiveBubbles</Name>
       <FileName>dive_bubbles.set.xml</FileName>
+      <Color>Cyan</Color>
+      <IsGameActive>true</IsGameActive>
+    </Layer>
+    <Layer>
+      <Index>19</Index>
+      <Name>FloorFallFirst2D</Name>
+      <FileName>floor_fall_2d.set.xml</FileName>
       <Color>Cyan</Color>
       <IsGameActive>true</IsGameActive>
     </Layer>
