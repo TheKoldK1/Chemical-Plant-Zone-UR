@@ -1,12 +1,12 @@
 A port of Chemical Plant Act 2 from Sonic Generations
-- FloorA = Normal (Africa)
+- FloorA (Floor Type 0 in Gens) = Normal (Africa)
 Floor Size 0 = A
 Floor Size 1 = B
 Floor Size 2 = C
 
 
 
-- FloorB = Fall (China)
+- FloorB (Floor Type 1 in Gens) = Fall (China)
 Floor Size 0 = C
 Floor Size 1 = D
 Floor Size 2 = A
@@ -29,18 +29,3 @@ Second CpzPipe (changeroad04) = ObjectPhysics
 
 
 Mega Mac objects = MovingThorn & RollingBall
-
-
-
-THINGS TO DO:
-REINSTALL GENS
-PROPER AUTODRAW - DONE (UPDATE)
-COPY MISSING MATERIALS BACK OVER TO STAGE ARCHIVE - DONE
-CHANGELAYERCOLLISION WITH FALLING FLOORS IN BOTTOM 2D - DONE (UPDATE)
-SORT OUT TEXTURE FILES - DONE
-(maybe) Change floor blocks that are currently objphy to another floor slot - DONE (UPDATE)
-Sort out game lag - DONE (UPDATE)
-
-
-
-
