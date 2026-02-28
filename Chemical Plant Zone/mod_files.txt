@@ -1,1 +1,13 @@
+add #ActD_China.ar.00
+add #ActD_China.arl
+add ActD_China.ar.00
+add ActD_China.ar.01
+add ActD_China.ar.02
+add ActD_China.ar.03
+add ActD_China.arl
+add work/ActD_China/Terrain.prm.xml
+add work/ActD_China/SceneEffect.prm.xml
+add work/ActD_China/ObjectProduction.phy.xml
+delete #SystemCommon.ar.00
+delete #SystemCommon.arl
 add mod.ini
