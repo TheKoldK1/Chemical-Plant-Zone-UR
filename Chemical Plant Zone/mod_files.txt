@@ -10,4 +10,6 @@ add work/ActD_China/SceneEffect.prm.xml
 add work/ActD_China/ObjectProduction.phy.xml
 delete #SystemCommon.ar.00
 delete #SystemCommon.arl
+delete +#SystemCommon.ar.00
+delete +#SystemCommon.arl
 add mod.ini
